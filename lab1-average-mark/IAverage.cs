@@ -1,0 +1,4 @@
+interface IAverage
+{
+    double GetAverage();
+}

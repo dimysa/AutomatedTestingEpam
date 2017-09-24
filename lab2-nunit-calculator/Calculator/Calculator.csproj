@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="NUnitAdd.cs" />
+    <Compile Include="NUnitDivide.cs" />
+    <Compile Include="NUnitMultiply.cs" />
     <Compile Include="NUnitSub.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
